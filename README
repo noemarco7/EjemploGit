@@ -1,0 +1,28 @@
+El archivo tiene también distintos propósitos para los distintos tipos de usuarios:
+
+Para el usuario final, los archivos readme aclaran posibles preguntas sobre la instalación, actualización o utilización de un software.
+Un archivo readme ofrece varias ventajas para tu propia labor de desarrollo. Por un lado, antes de empezar con el desarrollo propiamente dicho, el archivo readme puede servir de guía para la ejecución del proyecto. Por otro lado, también ayuda a ponerse de nuevo al día si un proyecto queda en pausa durante un largo periodo de tiempo.
+Para otros desarrolladores, los archivos readme explican el código y proporcionan información importante sobre su desarrollo posterior o sobre cómo utilizar un sistema, un software o proyectos de código abierto.
+¿Qué debería contener un archivo readme?
+Dependiendo de su propósito, un archivo readme puede ofrecer los siguientes contenidos:
+
+Una descripción general del sistema o proyecto.
+El estado del proyecto, que es particularmente importante si el proyecto está todavía en desarrollo. En él se mencionan los cambios planeados y la dirección de desarrollo del proyecto, y se especifica directamente si un proyecto está terminado.
+Los requisitos del entorno de desarrollo para la integración.
+Una guía para la instalación y el funcionamiento.
+Una lista de las tecnologías utilizadas y, cuando proceda, enlaces con más información.
+Los proyectos de código abierto que se pueden modificar o desarrollar deben incluir una sección de colaboración deseada en el archivo readme.md: ¿cómo se solucionan los problemas? ¿Cómo deberían los desarrolladores impulsar los cambios?
+Bugs conocidos y posibles correcciones de errores.
+Sección de preguntas frecuentes con todas las preguntas planteadas hasta la fecha.
+Información sobre derechos de autor y licencias.
+Es importante escribir siempre el readme en un lenguaje apropiado para el usuario final.Solo así se pueden aclarar la mayoría de las preguntas.
+
+Posibles formatos de archivo readme
+Puedes escribir y guardar un archivo readme en cualquier formato de archivo de texto. Los formatos van desde readme.txt a readme.doc y readme.1st. Dependiendo de la plataforma en la que se vaya a ejecutar el software, el formato del archivo se adapta al sistema en cuestión y a su programa de visualización de texto. Así se garantiza que el programa de texto pueda leer el archivo.
+
+Hoy en día, los desarrolladores usan generalmente el formato readme.md, pero qué es un archivo .md. La extensión de archivo indica que es un archivo readme en formato Markdown. Markdown convierte el texto a HTML con ayuda de caracteres de formateo. Un archivo readme correctamente formado y estructurado ofrece a los usuarios un resumen completo del proyecto.
+
+Readme.md: ejemplo en formato Markdown
+Aquí te mostramos cada uno de los elementos estructurales de un archivo readme.md así como las posibilidades que ofrece el formato Markdown. Para permitir la colaboración en todo el mundo y evitar barreras lingüísticas, el archivo readmesiempre debe estar en inglés.
+
+Ejemplo de readme en formato Markdown:

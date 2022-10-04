@@ -13,6 +13,28 @@
 <body>
     <h1>Prueba Molona de Git</h1>
     <h2>Ejemplo de como subir un repositorio de local a Git</h2>
+    <p>Una vez tienes Git instalado, tienes que ir, en el terminal, a la carpeta de tu proyecto, entonces allí generas tu
+    repositorio en local con la orden "init" (si es q no lo has hecho ya).
     
+    git init
+    Luego, desde la carpeta de haces el comando "add" para agregar todos los archivos al "staging area".
+    
+    git add .
+    Luego lanzas el comando para el commit, que se lleva los archivos al repositorio para control de cambios. Es el
+    siguiente:
+    
+    git commit -m 'mi primer commit'
+    En vez de ‘mi primer commit’ pon algo que sea menos genérico y más relevante, relacionado con tu proyecto y el estado en
+    el que estás ;)
+    
+    Luego tienes q hacer el "push" desde tu repositorio local a remoto con los comandos que aparecen en la página de Github
+    que hay justo después de haber creado el repositorio (allí donde te pedí que permanecieras con el navegador). Vuelve a
+    tu navegador y los verás, abajo del todo, en la alternativa de subir un repositorio existente en local.
+    Es algo como esto:
+
+    git remote add origin https://github.com/aqui-tu-repo.git
+    Y luego haces el propio push también con git:
+
+    git push -u origin master</p>
 </body>
 </html>
